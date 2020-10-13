@@ -1,0 +1,16 @@
+{
+    "classes":[
+        {
+            "id": 0,
+            "Course": "Data Science",
+            "Prep": "ksh 40, 500",
+            "Core": "ksh 140, 000"
+        },
+        {
+            "id": 1,
+            "Course": "Software Development",
+            "Prep": "ksh 40, 500",
+            "Core":"ksh 140, 000"
+        }
+    ]
+}
