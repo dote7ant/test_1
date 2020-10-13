@@ -101,7 +101,7 @@ responses:
 
   utter_faqs_programming:
   - text: "Our Moringa Prep course introduces you to basic programming. This course is for beginners to learn the fundamentals of programming and for more established developers to sharpen their grasp on front-end skills. 
-  Visit the (courses page)[https://moringaschool.com/courses] to learn more."
+  Visit the [courses page](https://moringaschool.com/courses) to learn more."
 
   utter_faqs_scholarship:
   - text: "We do not offer scholarships at the moment. However, we offer need-based flexible installment plans. Reach us on contact@moringaschool.com for further information."  
